@@ -1,4 +1,4 @@
-from movies import movie_dataset, labels
+from movies import movie_dataset, movie_labels
 from sklearn.neighbors import KNeighborsClassifier
 
 true_false_list = []
