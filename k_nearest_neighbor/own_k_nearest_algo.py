@@ -1,4 +1,4 @@
-from movies import training_set, training_labels, validation_set, validation_labels
+from dataset import training_set, training_labels, validation_set, validation_labels
 
 #Identifies the Euclidean Distance Between 2 parameters fed.
 def distance(movie1, movie2):
